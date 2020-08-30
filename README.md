@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jay Cruz
+### Hi there 👋 I'm Jay Cruz
 ![](https://github.com/yarocruz/fundamentals/blob/master/assets/images/banner.jpg)
 
 I’m a Web Developer based in Orlando, FL and I'm currently looking for opportunities to get paid to code. I'm a 'full stack' developer, but building user interfaces is more of my jam and my main go-to library has been React. 
