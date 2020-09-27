@@ -1,11 +1,14 @@
 ### Hi there 👋  I'm Jay Cruz
 
-I’m a Web Developer based in Orlando, FL and I'm currently looking for opportunities to get paid to code. I'm a 'full stack' developer, but building user interfaces is more of my jam and my main go-to library has been React. 
+I’m a Front-End Developer based in Orlando and I make websites and build apps. My main go to library for building views has been React, but I can make magic with just plain ol' HTML, CSS, and JavaScript. 
 
-- 🌱  I'm always learning
-- 👯  I’m looking to collaborate on something dope 
-- 📫  How to reach me: yarocruz@gmail.com 
-- 😄  Pronouns: He / Him  
+- 🌱 [Portfolio](https://yarocruz.surge.sh/)
+- 👯 [LinkedIn](https://www.linkedin.com/in/yarosky-cruz/) 
+- 📓 [Blog](https://yarocruz.github.io/)
+- 📫 How to reach me: yarocruz@gmail.com 
+- 😄 Pronouns: He / Him 
+- 🐧 Power Animal: Dog
+- 📚 Favorite Project so far: [Rock, Paper, Scissors, Lizard, Spock](https://yarocruz.github.io/rpsls/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yarocruz&show_icons=true)  
 
