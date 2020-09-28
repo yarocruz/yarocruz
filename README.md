@@ -7,7 +7,7 @@ I’m a Front-End Developer based in Orlando and I make websites and build apps.
 - 📓 [Blog](https://yarocruz.github.io/)
 - 📫 How to reach me: yarocruz@gmail.com 
 - 😄 Pronouns: He / Him 
-- 🐧 Power Animal: Dog
+- 🐧 Power Animal: Penguin
 - 📚 Favorite Project so far: [Rock, Paper, Scissors, Lizard, Spock](https://yarocruz.github.io/rpsls/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yarocruz&show_icons=true)  
