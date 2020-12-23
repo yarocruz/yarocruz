@@ -4,7 +4,7 @@ I’m a Front-End Developer based in Orlando and I specialize in crafting the co
 
 - 🌱 [Portfolio](https://yarocruz.surge.sh/)
 - 👯 [LinkedIn](https://www.linkedin.com/in/yarosky-cruz/) 
-- 📓 [Blog](https://yarocruz.github.io/)
+- 📓 [Blog](https://yarocruz.netlify.app/)
 - 📫 How to reach me: yarocruz@gmail.com 
 - 😄 Pronouns: He / Him 
 - 🐧 Power Animal: Penguin
