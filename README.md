@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Jay Cruz
 
-I’m a Front-End Developer based in Orlando and I make websites and build apps. My main go to library for building views has been React, but I can make magic with just plain ol' HTML, CSS, and JavaScript. 
+I’m a Front-End Developer based in Orlando and I specialize in crafting the code that powers the user interfaces of websites and webapps.
 
 - 🌱 [Portfolio](https://yarocruz.surge.sh/)
 - 👯 [LinkedIn](https://www.linkedin.com/in/yarosky-cruz/) 
