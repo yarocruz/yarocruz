@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Jay Cruz
 
-I’m a Web Developer based in Orlando and my wheelhouse is crafting code that powers user interfaces.
+Hello 👋 I’m a Software Developer based in Orlando, FL. I write client and server-side JavaScript to build websites and web applications. The stacks I'm most experienced with are React with Node + Express with either Non-SQL or SQL DB's, but I can work with any JS library or framework you throw at me. I also dabble with Rust. 🦀
 
 - 🌱 [Portfolio](https://yarocruz.surge.sh/)
 - 👯 [LinkedIn](https://www.linkedin.com/in/yarosky-cruz/) 
