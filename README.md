@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Jay Cruz
 
-I'm a Software Engineer based in Orlando, FL. My main focus has been in Web Development, but I'm interested in the broader world of Programming. I studied Graphic Design and specialized in Web Design. I also completed a "Full-Stack" JavaScript centered Coding Bootcamp. I did a short gig with a Startup as a Front-End Developer, worked in Tech Support for ServiceNow, and I'm currently a Teaching Assistant for the 2U/edX Coding Bootcamps.
+I’m a Software Engineer and my jam has been Web Development. My specialty has been in crafting user interfaces using React/Next.js and developing robust RESTful APIs with Node/Express with SQL databases. Beyond Web Development, I've been broadening my horizon by diving into languages like Python, Rust, and Golang, aiming to tackle unique software challenges across various aspects of technology.
 
 - 👯 [LinkedIn](https://www.linkedin.com/in/yarosky-cruz/) 
 - 📓 [Blog](https://medium.com/@jaycruz)
